@@ -1,0 +1,13 @@
+name: cst
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python >= 3.10
+  - pytorch >= 1.13
+  - torchvision
+  - pytorch-cuda=12.0
+  - pip:
+    - dashscope
+    - scikit-learn
+    - opencv-python

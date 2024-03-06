@@ -1,11 +1,19 @@
 # TDogTool (Not implement)
 
-### This is a team project for CST1000 (Introcution to Computer Science and Programming).
+### This is a team project for CST1000 (Introcution to Computer Science and Programming) in Westlake University.
 
-## Idea
+## Overview
 
-#### This is a tool based on qwen llm and we plan to finetune it on some downstream tasks
+#### This is a tool tries to help people who stucked in relationship deal with their emotional confusions.
 
 ## Main function
 
-### Sentence Analyse
+### Sentiment Analysis
+
+### Response Generation
+
+### Conversation Analysis
+
+### Text Summarization
+
+### Emotion Recognition
