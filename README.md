@@ -9,6 +9,7 @@
 - [ ] Find some dataset to fine-tune the model
 - [ ] Try multiple models to figure out the performance
 - [ ] Put it onto a ECS
+- [ ] Try to have a colab version
 
 ## Overview
 
