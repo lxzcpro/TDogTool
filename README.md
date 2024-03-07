@@ -17,12 +17,17 @@
 
 ## Main function
 
-### Sentiment Analysis
+#### Semantic Sentiment Analysis: 
+This feature analyzes the sentiment of the respondent's message, determining whether it is positive or negative, detects any passive-aggressive tones, and identifies the emotions conveyed. It helps to understand the underlying sentiment and emotional context of a conversation.
 
-### Response Generation
+#### Response Generation: 
+This feature provides high EQ (Emotional Quotient) responses when you're unsure of how to reply. It leverages AI to suggest empathetic and appropriate responses to various conversational scenarios, helping to maintain a positive and effective dialogue.
 
-### Conversation Analysis
+#### Chat Log Analysis: 
+This feature analyzes your WeChat conversation history to gauge the status of your relationship with the other party. It identifies trends in the emotional trajectory of the conversation, indicating whether the relationship is improving or deteriorating.
 
-### Text Summarization
+#### Semantic Summarization: 
+This feature provides a summary and analysis of long messages, such as those seeking reconciliation or expressing love. It extracts the key content and evaluates the sender's emotional state, providing a concise overview of lengthy texts and an insight into the sender's feelings.
 
-### Emotion Recognition
+#### Psychological Comfort: 
+This feature offers comfort when you're experiencing emotional distress. It provides empathetic and comforting responses, acting as a virtual shoulder to lean on when navigating emotional challenges.

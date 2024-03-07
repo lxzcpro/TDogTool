@@ -11,3 +11,4 @@ dependencies:
     - dashscope
     - scikit-learn
     - opencv-python
+    - gradio
